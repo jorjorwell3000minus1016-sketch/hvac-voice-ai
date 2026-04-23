@@ -1,0 +1,29 @@
+{
+  "name": "production-ready",
+  "version": "1.0.0",
+  "description": "A production-ready Voice AI solution built for service-based businesses (HVAC, Plumbing, Electrical) to capture and triage emergency leads after hours.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorjorwell3000minus1016-sketch/hvac-voice-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jorjorwell3000minus1016-sketch/hvac-voice-ai/issues"
+  },
+  "homepage": "https://github.com/jorjorwell3000minus1016-sketch/hvac-voice-ai#readme",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.90.0",
+    "body-parser": "^2.2.2",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "twilio": "^6.0.0"
+  }
+}

@@ -22,3 +22,7 @@ A production-ready Voice AI solution built for service-based businesses (HVAC, P
 4. Start the server using `node server.js`.
 5. Connect your Twilio Webhook to your public URL (via ngrok or permanent hosting).
 
+
+
+https://github.com/user-attachments/assets/ab0db3ce-96fa-414e-886d-cd100a0c2b8b
+
